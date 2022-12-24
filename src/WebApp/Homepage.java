@@ -8,5 +8,7 @@ public class Homepage {
     // more things
     // logo
 
+    // footer
+
 
 }
